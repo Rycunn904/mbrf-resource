@@ -2,9 +2,10 @@
   "model": {
     "type": "minecraft:select",
     "property": "minecraft:custom_model_data",
+    "index": 0,
     "cases": [
       {
-        "when": 1001,
+        "when": "keycard_lvl_1",
         "model": {
           "type": "minecraft:model",
           "model": "mbrf:item/keycard"
