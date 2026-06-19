@@ -7,7 +7,7 @@
         "when": 1001,
         "model": {
           "type": "minecraft:model",
-          "model": "mbrf:item/security_keycard"
+          "model": "mbrf:item/keycard"
         }
       }
     ],
