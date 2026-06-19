@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mbfr:item/keycard"
+    "layer0": "mbrf:item/keycard"
   }
 }
